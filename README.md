@@ -1,7 +1,7 @@
 ### yo, i’m @morganofthefairies
 i have brain rot
 
-i'm crying over ~~python~~ Swift failures right now
+i'm crying over ~~python~~ ~~Swift~~ Java failures right now
 
 <!---
 morganofthefairies/morganofthefairies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
